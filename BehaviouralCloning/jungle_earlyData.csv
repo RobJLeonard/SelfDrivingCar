@@ -1,4 +1,4 @@
-center cam,left cam,right cam,angle,forward,reverse,speed
+center cam,left cam,right cam,angle,throttle,brake,speed
 C:\Users\Roble\Desktop\Programming Project\IMG\center_2018_03_05_00_52_49_396.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\left_2018_03_05_00_52_49_396.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\right_2018_03_05_00_52_49_396.jpg,0,0,0,0.000156123
 C:\Users\Roble\Desktop\Programming Project\IMG\center_2018_03_05_00_52_49_467.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\left_2018_03_05_00_52_49_467.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\right_2018_03_05_00_52_49_467.jpg,0,0,0,0.000240252
 C:\Users\Roble\Desktop\Programming Project\IMG\center_2018_03_05_00_52_49_535.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\left_2018_03_05_00_52_49_535.jpg,C:\Users\Roble\Desktop\Programming Project\IMG\right_2018_03_05_00_52_49_535.jpg,0,0,0,3.48E-05
